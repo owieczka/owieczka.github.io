@@ -1,8 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Owieczka 
+description: Owieczka description
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://owieczka.github.io
+
+logo: "/assets/images/OwieczkaChod2.gif"
+
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
