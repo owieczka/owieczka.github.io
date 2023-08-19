@@ -18,10 +18,12 @@ W folderze musi znajdowac się plik `index.md` z następującym paramtrem w fron
 
 ```yaml
 has_children: true
+title: <sometime>
 ```
+
+opcjonalnie
 
 ```yaml
 layout: default
-title: UI Components
 ```
 
