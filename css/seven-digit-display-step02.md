@@ -3,6 +3,7 @@ date: 2023-08-25
 share: true
 title: Seven Digit Display Step 02
 parent: Seven Digit Display
+grand_parent: CSS
 ---
 ## Krok 2 - WebComponent - komponent html'a
 
@@ -77,7 +78,7 @@ W pliku `index.html` podłaczmy skrypt `segment-box.js` i dodajmy pojedynczą in
 </html>
 ```
 
-![Pojedyńczy segment](step02-01.jpg)
+![Pojedyńczy segment](../WebPage/css/css-assets/sevendigit/step02-01.jpg)
 
 ### Redukcja drzewa DOM
 
@@ -118,7 +119,7 @@ jego rolę przejmie element `<segment-box>`. Z wnętrza `shadowDOM` ostylowanie 
 }
 ```
 
-![Eliminacja zbędnego kontenera](step02-02.jpg)
+![Eliminacja zbędnego kontenera](../WebPage/css/css-assets/sevendigit/step02-02.jpg)
 
 Znikneły elementy aktywne. Ponieważ nasz element `segment-box` nie ma przypisanej klasy `digit-0`, dodanie go nie rozwiązuje jednak całkowicie problemu
 ```html
@@ -138,6 +139,6 @@ Mianowicie z wnetrza `shadowDOM` sprawdzenie jakiej klasy jest element nadrzędn
 ```
 po tym zabiegu nasz nowy element `segement-box` działa jak należy
 
-![Poprawie działający webkomponent](step02-03.jpg)
+![Poprawie działający webkomponent](../WebPage/css/css-assets/sevendigit/step02-03.jpg)
 
 [Index](../readme.md)

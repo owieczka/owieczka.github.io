@@ -3,6 +3,7 @@ date: 2023-08-25
 share: true
 title: Seven Digit Display
 parent: CSS
+has_children: true
 ---
 # Wyświetlacz 7-segmentowy w CSS i Javascript
 
