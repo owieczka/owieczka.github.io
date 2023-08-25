@@ -31,7 +31,7 @@ Pojedyńcza cyfra
 
 ![[WebPage/css/css-assets/sevendigit/digit.jpg|WebPage/css/css-assets/sevendigit/digit.jpg]]
 
-Więcej - [Pojedyńcza Cyfra - krok po kroku](WebPage/css/seven-digit-display-step01.md)
+Więcej - [[WebPage/css/seven-digit-display-step01|Pojedyńcza Cyfra - krok po kroku]]
 
 ## Krok 2 - WebComponent - komponent html'a
 
@@ -52,4 +52,4 @@ Reużywalny komponent cyfry
 ```
 ![Single Digit](WebPage/css/css-assets/sevendigit/digit.jpg)
 
-Więcej - [Własny WebKomponent](WebPage/css/seven-digit-display-step02.md)
+Więcej - [[WebPage/css/seven-digit-display-step02|Własny WebKomponent]] 
