@@ -29,6 +29,8 @@ Pojedyńcza cyfra
 
 ![Single Digit](WebPage/css/css-assets/sevendigit/digit.jpg)
 
+![[WebPage/css/css-assets/sevendigit/digit.jpg|WebPage/css/css-assets/sevendigit/digit.jpg]]
+
 Więcej - [Pojedyńcza Cyfra - krok po kroku](WebPage/css/seven-digit-display-step01.md)
 
 ## Krok 2 - WebComponent - komponent html'a
