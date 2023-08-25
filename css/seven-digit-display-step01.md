@@ -3,12 +3,13 @@ date: 2023-08-25
 share: true
 title: Seven Digit Display Step 01
 parent: Seven Digit Display
+grand_parent: CSS
 ---
 ## Krok 1 - Przygotowanie jednego segmentu wyświetlacza 7 segementowego
 
 Pojedyczńca cyfra
 
-![Single Digit](digit.jpg)
+![Single Digit](../WebPage/css/css-assets/sevendigit/digit.jpg)
 
 ### Segment
 
@@ -34,7 +35,7 @@ który można ustawić koło siebie w lini czyli  `display: inline-block`. Zdefi
 }
 ```
 
-![Segment](step01-01.jpg)
+![Segment](../WebPage/css/css-assets/sevendigit/step01-01.jpg)
 
 ### Element aktywny
 
@@ -86,7 +87,7 @@ I dodanie nowych zmiennych css do klasy `segment`
 }
 ```
 
-![Element Aktywny](step01-02.jpg)
+![Element Aktywny](../WebPage/css/css-assets/sevendigit/step01-02.jpg)
 ### Dopasowanie rozmiary elementu aktywnego
 
 Element aktywny jest troszkę za duży i wystaje w naszego segmentu. Cały element należy skrócić o wielkość końcówek - dwukrotność `--bar-thickness` i przesunąć o `--bar-thickness`. Element przesuniemy przez dodanie lewego i prawego marginesu
@@ -121,7 +122,7 @@ Element aktywny jest troszkę za duży i wystaje w naszego segmentu. Cały eleme
 }
 ```
 
-![Element aktywny](step01-03.jpg)
+![Element aktywny](../WebPage/css/css-assets/sevendigit/step01-03.jpg)
 
 ### Trzy poziome elementy aktywne
 
@@ -149,7 +150,7 @@ Trzy dodatkowe klasy css `bar-a`, `bar-b` i `bar-c` pozwalają na ustawienie po�
 }
 ```
 
-![Trzy element aktywne](step01-04.jpg)
+![Trzy element aktywne](../WebPage/css/css-assets/sevendigit/step01-04.jpg)
 
 ### Pionowy element aktywny
 
@@ -207,7 +208,7 @@ klasa `bar-d` pozwala na ustawienie elementu w odpowiedniej pozycji
 }
 ```
 
-![Trzy element aktywne](step01-05.jpg)
+![Trzy element aktywne](../WebPage/css/css-assets/sevendigit/step01-05.jpg)
 
 Elementy pionowe w górnej części segmentu powinny mieć inaczej istanione marginesy niż w dolnej cześci dlatego tworzymy dodatkową klase css `bar-v-b` aby ustawić marginesy symetrycznie dla dolnego elementu aktywnego
 
@@ -249,7 +250,7 @@ I ich klasy pozycjonujące
 }
 ```
 
-![Trzy element aktywne](step01-06.jpg)
+![Trzy element aktywne](../WebPage/css/css-assets/sevendigit/step01-06.jpg)
 
 ### Marginesy pomiedzy elementami aktywnymi
 
@@ -315,7 +316,7 @@ W przypadku końcówek elementów aktywnych czyli elementów `before` i `after` 
 ```
 W efekcie otrzymujemy ładne równe przerwy pomiedzy elementami aktywnymi
 
-![Przerwy pomiedzy elementami aktywnymi](step01-07.jpg)
+![Przerwy pomiedzy elementami aktywnymi](../WebPage/css/css-assets/sevendigit/step01-07.jpg)
 
 ### Definicja wyświetlanych cyfr
 
@@ -358,7 +359,7 @@ Przypisanie klasy `digit-0` do segmentu, wyświetli nam cyfrę 0 na naszym wyśw
 </div>
 ```
 
-![Cyfra 8](step01-08.jpg)
+![Cyfra 8](../WebPage/css/css-assets/sevendigit/step01-08.jpg)
 
 podobnie definiujemy klasy dla pozostałych cyfr 1-9
 
