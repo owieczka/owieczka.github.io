@@ -27,12 +27,12 @@ Pojedyńcza cyfra
 </body>
 ```
 
-![Single Digit](WebPage/css/css-assets/sevendigit/digit.jpg)
+![Single Digit](../WebPage/css/css-assets/sevendigit/digit.jpg)
 
-![[WebPage/css/css-assets/sevendigit/digit.jpg|WebPage/css/css-assets/sevendigit/digit.jpg]]
+![WebPage/css/css-assets/sevendigit/digit.jpg](../WebPage/css/css-assets/sevendigit/digit.jpg)
 
-Więcej - [[WebPage/css/seven-digit-display-step01|Pojedyńcza Cyfra - krok po kroku]]
-
+Więcej - [Pojedyńcza Cyfra - krok po kroku](WebPage/css/seven-digit-display-step01.md)
+aaa
 ## Krok 2 - WebComponent - komponent html'a
 
 Reużywalny komponent cyfry
@@ -50,6 +50,6 @@ Reużywalny komponent cyfry
   <segment-box class="digit-9"></segment-box>
 </body>
 ```
-![Single Digit](WebPage/css/css-assets/sevendigit/digit.jpg)
+![Single Digit](../WebPage/css/css-assets/sevendigit/digit.jpg)
 
-Więcej - [[WebPage/css/seven-digit-display-step02|Własny WebKomponent]] 
+Więcej - [Własny WebKomponent](WebPage/css/seven-digit-display-step02.md) 
