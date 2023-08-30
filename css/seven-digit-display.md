@@ -50,4 +50,4 @@ Reużywalny komponent cyfry
 ```
 ![Single Digit](../WebPage/css/css-assets/sevendigit/digit.jpg)
 
-Więcej - [Własny WebKomponent](WebPage/css/seven-digit-display-step02.md) 
+Więcej - [Własny WebKomponent](seven-digit-display-step02.md) 
