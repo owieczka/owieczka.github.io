@@ -1,6 +1,7 @@
 title: Owieczka 
 description: Owieczka description
 theme: just-the-docs
+#remote_theme: just-the-docs/just-the-docs@v0.5.2
 
 url: https://owieczka.github.io
 
@@ -21,3 +22,6 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+
+compress_html:
+  blanklines: true
