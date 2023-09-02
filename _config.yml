@@ -10,7 +10,7 @@ logo: "/assets/images/OwieczkaChod2.gif"
 
 mathjax:
   source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
-  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } }, tex2jax: { inlineMath: [['$','$']] } })'
+  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } }, tex2jax: { inlineMath: [['$','$']], displayMath: [ ['$$','$$']] } })'
 
 mermaid:
   # Version of mermaid library
