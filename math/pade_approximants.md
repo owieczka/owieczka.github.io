@@ -3,6 +3,7 @@ date: 2023-08-30
 share: true
 title: Aproksymacja Pade
 parent: Matematyka
+mathjax: "true"
 ---
 # Aproksymacja Pade
 ---
