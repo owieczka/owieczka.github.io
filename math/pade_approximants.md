@@ -10,7 +10,9 @@ mathjax: "true"
 
 Klasyczna aproksymacja $n$-tego rzędu funkcji $f(x)$ w okolicy punku $a$ za pomocą szeregu Taylora, ma tendencje do zwiększania niedokładności ekstrapolacji wartośći do + lub - nieskończoności.
 
-$$g(x) = f(a) + \frac{x-a}{1!}\cdot \left.\frac{\partial f}{\partial x}\right|_{x=a}+\frac{\left(x-a\right)^2}{2!}\cdot \left.\frac{\partial^2 f}{\partial x^2}\right|_{x=a}+\cdots + \frac{\left(x-a\right)^n}{n!}\cdot \left.\frac{\partial^n f}{\partial x^n}\right|_{x=a}$$
+$$
+g(x) = f(a) + \frac{x-a}{1!}\cdot \left.\frac{\partial f}{\partial x}\right|_{x=a}+\frac{\left(x-a\right)^2}{2!}\cdot \left.\frac{\partial^2 f}{\partial x^2}\right|_{x=a}+\cdots + \frac{\left(x-a\right)^n}{n!}\cdot \left.\frac{\partial^n f}{\partial x^n}\right|_{x=a}
+$$
 
 Aproksymacją które jest żadziej stosowana i posiada lepsze właściwości przy oddalaniu się od okolicy punktu $a$ (ekstrapolacji) jest aproksymacja Pade rzedu $N+M$ za pomocą ilorazu dwóch wielomianów. 
 
