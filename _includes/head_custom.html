@@ -1,8 +1,8 @@
 {% if page.mathjax %}
-  <script type="text/x-mathjax-config">
+  <script type="text/javascript">
     {{ site.mathjax.config }};
   </script>
-  <script type="text/javascript" async 
+  <script type="text/javascript" id="MathJax-script" async 
     src="{{ site.mathjax.source }}">
   </script>
 {% endif %}
