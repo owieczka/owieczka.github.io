@@ -10,7 +10,7 @@ logo: "/assets/images/OwieczkaChod2.gif"
 
 mathjax:
   source: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
-  config: 'window.MathJax = {tex: {packages: ["base", "ams"], inlineMath: [["$", "$"]], displayMath: [['$$', '$$'],['\\[', '\\]']] }}'
+  config: 'window.MathJax = {tex: {packages: ["base", "ams"], inlineMath: [["$", "$"]], displayMath: [["$$", "$$"],["\\[", "\\]"]] }}'
 
 mermaid:
   # Version of mermaid library
