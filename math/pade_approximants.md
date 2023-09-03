@@ -10,15 +10,9 @@ mathjax: "true"
 
 test
 Klasyczna aproksymacja $n$-tego rzędu funkcji f(x) w okolicy punku $a$ za pomocą szeregu Taylora, ma tendencje do zwiększania niedokładności ekstrapolacji wartośći do + lub - nieskończoności.
-
-$$
-g(x) = f(a) + \frac{x-a}{1!}\cdot \left.\frac{\partial f}{\partial x}\right|_{x=a}+\frac{\left(x-a\right)^2}{2!}\cdot \left.\frac{\partial^2 f}{\partial x^2}\right|_{x=a}+\cdots + \frac{\left(x-a\right)^n}{n!}\cdot \left.\frac{\partial^n f}{\partial x^n}\right|_{x=a}
-$$
-
+$$g(x) = f(a) + \frac{x-a}{1!}\cdot \left.\frac{\partial f}{\partial x}\right|_{x=a}+\frac{\left(x-a\right)^2}{2!}\cdot \left.\frac{\partial^2 f}{\partial x^2}\right|_{x=a}+\cdots + \frac{\left(x-a\right)^n}{n!}\cdot \left.\frac{\partial^n f}{\partial x^n}\right|_{x=a}$$
 Aproksymacją które jest żadziej stosowana i posiada lepsze właściwości przy oddalaniu się od okolicy punktu $a$ (ekstrapolacji) jest aproksymacja Pade rzedu $N+M$ za pomocą ilorazu dwóch wielomianów. 
-
 $$g(x)=\frac{\sum_{i=0}^N A_i \cdot x^i}{\sum_{j=0}^M B_j \cdot x^j}$$
-
 Współczynniki aproksymacji wyznacza się przyrównująć wzory na aproksymację szeregiem Taylora rzeczy N+M z aproksymacją Pade rzeduę N+M
 $$ \frac{\sum_{i=0}^N A_i \cdot x^i}{\sum_{j=0}^M B_j \cdot x^j} = f(a) + \sum_{k-1}^{N+M} \frac{\left(x-a\right)^k}{k!} \cdot \left.\frac{\partial^k f}{\partial x^k}\right|_{x=a}$$
 Mnożąc obiestrony przez wielomian $B$ otrzymujemy rownanie który aby było spełnione współczynniki przy kolejnych potęgach wielomianu po obu strona muszą być sobie równe aż do rzędu $N+M$
