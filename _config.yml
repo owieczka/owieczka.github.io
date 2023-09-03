@@ -29,3 +29,6 @@ defaults:
 
 compress_html:
   blanklines: true
+  
+kramdown:
+    math-engine: nil
