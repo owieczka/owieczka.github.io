@@ -31,4 +31,4 @@ compress_html:
   blanklines: true
   
 kramdown:
-    math-engine: nil
+  math-engine: nil
