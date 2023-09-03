@@ -8,8 +8,7 @@ mathjax: "true"
 # Aproksymacja Pade
 ---
 
-test
-Klasyczna aproksymacja $n$-tego rzędu funkcji f(x) w okolicy punku $a$ za pomocą szeregu Taylora, ma tendencje do zwiększania niedokładności ekstrapolacji wartośći do + lub - nieskończoności.
+Klasyczna aproksymacja $n$-tego rzędu funkcji f(x) w okolicy punku $a$ za pomocą szeregu Taylora, ma tendencje do zwiększania niedokładności ekstrapolacji do $\pm \infty$.
 $$g(x) = f(a) + \frac{x-a}{1!}\cdot \left.\frac{\partial f}{\partial x}\right|_{x=a}+\frac{\left(x-a\right)^2}{2!}\cdot \left.\frac{\partial^2 f}{\partial x^2}\right|_{x=a}+\cdots + \frac{\left(x-a\right)^n}{n!}\cdot \left.\frac{\partial^n f}{\partial x^n}\right|_{x=a}$$
 Aproksymacją które jest żadziej stosowana i posiada lepsze właściwości przy oddalaniu się od okolicy punktu $a$ (ekstrapolacji) jest aproksymacja Pade rzedu $N+M$ za pomocą ilorazu dwóch wielomianów. 
 $$g(x)=\frac{\sum_{i=0}^N A_i \cdot x^i}{\sum_{j=0}^M B_j \cdot x^j}$$
@@ -19,11 +18,11 @@ Mnożąc obiestrony przez wielomian $B$ otrzymujemy rownanie który aby było sp
 
 Bez utraty ogólności można przyjąć iż $B_1=1$ ponieważ w aproksymacji Pade móżna podzielić oba wielomiany przez wartość $B_1$ 
 $$g(x)=\frac{\sum_{i=0}^N \frac{A_i}{B_1} \cdot x^i}{\sum_{j=0}^M \frac{B_j}{B_1} \cdot x^j}$$
-i zmianić oznaczenia uzyskanych wartośći na orginalne
+i zmianić oznaczenia uzyskanych wartości na orginalne
 $$g(x)=\frac{\sum_{i=0}^N A_i \cdot x^i}{1+\sum_{j=1}^M B_j \cdot x^j}$$
 ## Przykład
 ---
-Dla przykładu wyznaczmy aproksymację funksi $sinus$ w okolicy $0$
+Dla przykładu wyznaczmy aproksymację funkcji sinus w okolicy $0$
 $$f(x) = sin(x)$$
 $$g(x) = x-\frac{x^3}{6} + O(x^5)$$
 gdzie notacja $O(x^5)$ oznacza iż ignorujemy w aproksymacji wszystkie czynniki większe równe piątej potędzę
