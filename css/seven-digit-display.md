@@ -30,7 +30,7 @@ Pojedyńcza cyfra
 
 ![Single Digit](../WebPage/css/css-assets/sevendigit/digit.jpg)
 
-Więcej - [Pojedyńcza Cyfra - krok po kroku](seven-digit-display-step01.md)
+Więcej - [Pojedyńcza Cyfra - krok po kroku](./seven-digit-display-step01.md)
 ## Krok 2 - WebComponent - komponent html'a
 
 Reużywalny komponent cyfry
@@ -50,4 +50,4 @@ Reużywalny komponent cyfry
 ```
 ![Single Digit](../WebPage/css/css-assets/sevendigit/digit.jpg)
 
-Więcej - [Własny WebKomponent](seven-digit-display-step02.md) 
+Więcej - [Własny WebKomponent](./seven-digit-display-step02.md) 
