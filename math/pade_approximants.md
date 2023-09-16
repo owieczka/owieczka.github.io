@@ -3,7 +3,7 @@ date: 2023-08-30
 share: true
 title: Aproksymacja Pade
 parent: Matematyka
-mathjax: "true"
+mathjax: true
 ---
 # Aproksymacja Pade
 ---
@@ -40,8 +40,19 @@ A_2&=B_1\\
 0&=B_2 - \frac{1}{6}\\
 0&=B_1
 \end{matrix}\right.$$
+którego rozwiązanie to 
+$$\left\{\begin{matrix}
+A_0&=0\\
+A_1&=1\\
+A_2&=0\\
+B_1&=0\\
+B_2&=\frac{1}{6}
+\end{matrix}\right.$$
+
 Czyli aproksymacja Pade stopnia $2+2$ dana jest wzorem
 $$g(x)=\frac{x}{1+\frac{x^2}{6}}$$
+
+Poniżej przedstawiono wykres funkcji $f(x)$ oraz aproksymacji szeregiem tylora oraz aproksymacji Pade.
 
 ```tikz
 \usepackage{tikz}
@@ -73,6 +84,4 @@ $$g(x)=\frac{x}{1+\frac{x^2}{6}}$$
   \end{tikzpicture}
 \end{document}
 ```
-
-
 
