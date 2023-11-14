@@ -28,7 +28,7 @@ Mała owieczka w rozmiarze 16 pixeli
       /*color-interpolation: linearRGB;*/
       shape-rendering: geometricPrecision;
     }
-    @media (min-width: 200px) and (min-height: 200px) {{
+    @media (min-width: 200px) and (min-height: 200px) {
       .pixart2svg {
         shape-rendering: crispEdges;\n')
       }
@@ -45,7 +45,7 @@ Mała owieczka w rozmiarze 16 pixeli
       /*color-interpolation: linearRGB;*/
       shape-rendering: geometricPrecision;
     }
-    @media (min-width: 200px) and (min-height: 200px) {{
+    @media (min-width: 200px) and (min-height: 200px) {
       .pixart2svg {
         shape-rendering: crispEdges;\n')
       }
