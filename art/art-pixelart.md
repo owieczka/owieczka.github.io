@@ -29,9 +29,6 @@ Mała owieczka w rozmiarze 16 pixeli
       shape-rendering: geometricPrecision;
     }
     @media (min-width: 200px) and (min-height: 200px) {{
-      /* Disable anti-aliasing when zoom level > 200%.
-      However, there is currently no way to completely eliminate edge artifacts.
-      See also: https://bugs.webkit.org/show_bug.cgi?id=35211 */
       .pixart2svg {
         shape-rendering: crispEdges;\n')
       }
