@@ -91,3 +91,5 @@ Mała owieczka w rozmiarze 16 pixeli
 ## Cztery pory roku
 ---
 ![FourSesons.png](../WebPage/art/art-assets/FourSesons.png)
+
+.
