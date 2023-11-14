@@ -74,3 +74,20 @@ Mała owieczka w rozmiarze 16 pixeli
 ## Owieczka 16 pixeli wersja 3
 
 ![128](../WebPage/art/art-assets/Owieczka_16x16_v3.png)
+
+## Logo Mucha
+
+![256](../WebPage/art/art-assets/LogoMucha.png)
+
+## Tree
+
+![256](../WebPage/art/art-assets/Tree64x16_2.png)
+
+![256](../WebPage/art/art-assets/Tree64x16.png)
+
+![256](../WebPage/art/art-assets/Tree64x16_3.png)
+![256](../WebPage/art/art-assets/Tree64x16_3a.png)
+
+## Cztery pory roku
+---
+![FourSesons.png](../WebPage/art/art-assets/FourSesons.png)
