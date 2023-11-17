@@ -86,4 +86,6 @@ Mała owieczka w rozmiarze 16 pixeli
 ---
 ![FourSesons.png](../WebPage/art/art-assets/FourSesons.png)
 
-.
+## Skały
+---
+![256](../WebPage/art/art-assets/Rock.png)
