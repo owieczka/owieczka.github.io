@@ -69,6 +69,9 @@ Mała owieczka w rozmiarze 16 pixeli
 
 ![128](../WebPage/art/art-assets/Owieczka_16x16_v3.png)
 
+Terminal Logo Version
+
+![256](../WebPage/art/art-assets/TerminalLogo.png)
 ## Logo Mucha
 
 ![256](../WebPage/art/art-assets/LogoMucha.png)
