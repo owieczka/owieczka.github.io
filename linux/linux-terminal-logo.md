@@ -2,7 +2,7 @@
 date: 2023-11-18
 share: true
 title: Terminal Logo
-parent: linux
+parent: Linux
 ---
 # Terminal Logo
 
