@@ -92,3 +92,16 @@ Terminal Logo Version
 ## Skały
 ---
 ![256](../WebPage/art/art-assets/Rock.png)
+
+## Żyrafa
+---
+![80](../WebPage/art/art-assets/Zyrafa32.png)
+
+
+## Kotek
+---
+![80](../WebPage/art/art-assets/Kotek32.png)
+
+## Mucha
+---
+![Mucha-fly.gif](../WebPage/art/art-assets/Mucha-fly.gif) ![Mucha-fly-1.gif](../WebPage/art/art-assets/Mucha-fly-1.gif)
