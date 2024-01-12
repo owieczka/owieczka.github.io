@@ -4,6 +4,7 @@ share: true
 title: Theme
 parent: WebPage
 ---
+
 # Theme
 ---
 
@@ -15,7 +16,7 @@ Dodanie wsparcia dla mathjax w `_config.yaml` strony. Kolejne linie odpowiadają
 ```yaml
 mathjax:
   source: https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js
-  config: 'window.MathJax = {tex: {packages: ["base", "ams"], inlineMath: ["$", "$"](%22$%22,%20%22$%22.md), displayMath: ["$", "$"](%22$%22,%20%22$%22.md) }}'
+  config: 'window.MathJax = {tex: {packages: ["base", "ams"], inlineMath: [["$", "$"]], displayMath: [["$$", "$$"],["\\(", "\\)"]] }}'
 
 compress_html:
   blanklines: true
