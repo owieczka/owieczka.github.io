@@ -4,6 +4,7 @@ share: true
 title: Pixel Art
 parent: Art
 ---
+
 # Pixel Art
 ---
 ## Owieczka 16 pixeli
@@ -105,3 +106,12 @@ Terminal Logo Version
 ## Mucha
 ---
 ![Mucha-fly.gif](../WebPage/art/art-assets/Mucha-fly.gif) ![Mucha-fly-1.gif](../WebPage/art/art-assets/Mucha-fly-1.gif)
+
+
+## Math Equation 
+---
+
+Pythagorem Theroem
+![256](../WebPage/art/art-assets/Equ-pythagoras_128.png)
+Only physicists understand and appreciate
+![Equ-LenghtContraction.gif](../WebPage/art/art-assets/Equ-LenghtContraction.gif)
