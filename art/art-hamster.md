@@ -5,6 +5,7 @@ title: Chomik
 parent: Art
 ---
 
+
 # Chomiczek
 
 ![hamster.jpg](../WebPage/art/art-assets/hamster.jpg)
