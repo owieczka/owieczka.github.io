@@ -5,6 +5,7 @@ title: ASCII art logo
 parent: Art
 ---
 
+
 # Logo LambLabs w ASCII art
 
 ```
