@@ -5,6 +5,7 @@ title: Kotek
 parent: Art
 ---
 
+
 # Kotek
 
 ![cat.jpg](../WebPage/art/art-assets/cat.jpg)
