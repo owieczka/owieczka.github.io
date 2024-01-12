@@ -5,6 +5,7 @@ title: Art
 has_children: true
 ---
 
+
 # Szkice i obrazki
 
 Kilka moich prac powstałych przez lata.

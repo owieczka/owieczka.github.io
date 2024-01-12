@@ -5,6 +5,7 @@ title: Seven Digit Display Step 01
 parent: Seven Digit Display
 grand_parent: CSS
 ---
+
 ## Krok 1 - Przygotowanie jednego segmentu wyświetlacza 7 segementowego
 
 Pojedyczńca cyfra

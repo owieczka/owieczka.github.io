@@ -5,6 +5,7 @@ title: Aproksymacja Pade
 parent: Matematyka
 mathjax: true
 ---
+
 # Aproksymacja Pade
 ---
 

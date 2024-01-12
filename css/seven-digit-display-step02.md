@@ -5,6 +5,7 @@ title: Seven Digit Display Step 02
 parent: Seven Digit Display
 grand_parent: CSS
 ---
+
 ## Krok 2 - WebComponent - komponent html'a
 
 [WebComponent](https://developer.mozilla.org/en-US/docs/Web/Web_Components) jest narzędziem pozwalającym na tworzenie reużywalnych elementów html, całowicie enkapsulowalnych, o własnej logice działania. Może o nich myśleć jak o własnych elementach np formularzy, ale nie tylko.

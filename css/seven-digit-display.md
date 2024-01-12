@@ -5,6 +5,7 @@ title: Seven Digit Display
 parent: CSS
 has_children: true
 ---
+
 # Wyświetlacz 7-segmentowy w CSS i Javascript
 
 Prosty tutorial jak przygotować wyświetlacze siedmio segmentowy w JavaScript i CSS
