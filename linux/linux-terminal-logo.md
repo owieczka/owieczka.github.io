@@ -4,6 +4,7 @@ share: true
 title: Terminal Logo
 parent: Linux
 ---
+
 # Terminal Logo
 
 It is nice to have some personal terminal logo welcome screen. Mine is simple Little Lamb image. 
