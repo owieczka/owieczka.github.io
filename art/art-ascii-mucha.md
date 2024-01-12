@@ -5,6 +5,7 @@ title: ASCII art Mucha
 parent: Art
 ---
 
+
 # Mucha Logo
 ---
 
