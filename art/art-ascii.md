@@ -4,6 +4,7 @@ share: true
 title: ASCII art podstawy
 parent: Art
 ---
+
 # Podstawy ASCII art
 ---
 
